@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+body{
+    background-image: url(./imagens/fundo-madeira.jpg);
+}
+.smartphone{
+    margin-top: 20px;
+
+}
+.smartphone>img{
+    display: block;
+    margin: auto;
+}
+.container{
+    margin-top: 20px;
+    overflow: hidden;
+}
+.box{
+    display: block;
+    margin: auto;
+    width: 260px;
+    height: 465px;
+    position: absolute;
+    left: 543px;
+    top: 100px;
+    z-index: 1;
+    
+}
+
+
+
